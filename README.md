@@ -1,8 +1,16 @@
 **IRON DOME**
 A simple 2D game made with Unity, where the player must protect a city under heavy bombardment. The goal is to survive as long as possible and beat your previous high score. Buildings take damage and collapse gradually when hit by bombs. The game ends when all buildings are destroyed and the entire city lies in ruins. The main menu displays the player's best score and the number of days survived. And of course, the spawn rate of the bombs gets faster over time. The game over cinematic and pause screens both display the player's current score and the number of days survived during the session. The game features a dynamic day-night cycle, where nighttime increases the difficulty by making bombs harder to see, rewarding players with extra points for surviving and scoring during these more challenging periods.
 
+## Videos
+**Music Video**
+https://www.youtube.com/watch?v=aPOugUGL0e0
+
+**Gameplay**
+https://www.youtube.com/watch?v=mBzkX-7ONAo
 
 ## Disclaimer
+
+**This game was originally intended for release on Google Play, but since Google requires developers to publicly display their real name and home address, I’ve decided to distribute it here for free, without ads** 
 This repository contains only the core gameplay scripts from the Unity project. Some of the game's assets, such as sounds, graphic elements, are covered by Free for commercial use WITH ATTRIBUTION license that prohibits redistribution and therefore cannot be shared publicly in this repository.
 
 ## How to Play
