@@ -15,6 +15,13 @@ This repository contains only the core gameplay scripts from the Unity project. 
 
 ## How to Play
 
+**Windows**
+-Just download the zip for Windows and click the app
+
+**Android**
+Download the zip for Android, extract the zip file, and install the APK file. 
+
+**Gameplay**
 - Use the mouse to aim and shoot the cannon
 - Destroy incoming bombs before they hit buildings
 - Survive as many days as possible
